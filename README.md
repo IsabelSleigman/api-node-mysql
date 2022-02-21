@@ -1,2 +1,2 @@
-# api-node-mysql
+# API Node + MySQL
 Node + MySQL
